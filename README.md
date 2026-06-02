@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/locked-in-this-room/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Locked In This Room](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/locked-in-this-room/) |
+| **Get License** | [Get a Licensing Quote for Locked In This Room](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/locked-in-this-room/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I drove the miles just to see your face
+> Now we are hiding in this quiet place
+> Just your breath and the midnight air
+> Tangled up in the feeling we share
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
