@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/locked-in-this-room/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Locked In This Room](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/locked-in-this-room/) |
+| **Get License** | [Obtain a Music License for Locked In This Room](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/locked-in-this-room/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `042cec7158b1e8c83c3c9482aee8825b00366005f5d2eecf5bceda18e7ba9abb` |
 | **Timestamp** | June 02, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

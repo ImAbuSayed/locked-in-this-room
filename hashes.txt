@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Locked In This Room
+
+This log tracks the cryptographic history and versioning for the song **Locked In This Room** (locked-in-this-room).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-02T15:31:30.205373 | `v1` | `042cec7158b1e8c83c3c9482aee8825b00366005f5d2eecf5bceda18e7ba9abb` | `fc1435daa5e9c4502a19f81abe0f80c1178df8c447b418274abdf7b8ff34aca0` | `2026-06-02_locked-in-this-room-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
